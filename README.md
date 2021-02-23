@@ -13,21 +13,21 @@ Write python program to understand arithmetic operators and Bitwise operators.
 
 <h3> Pattern </h3>
 Print the following pattern using python
-* 
-* * 
-* * * 
-* * * * 
-* * * * *
-* * * *
-* * *
-* *
-*
+* <br>
+* * <br>
+* * * <br>
+* * * *  <br>
+* * * * * <br>
+* * * * <br>
+* * * <br>
+* *<br>
+* <br>
 
 <h3> Multiplication - exp 2 </h3>
 Python Program to Display the multiplication Table for accepted number from the user
 
 <h3> Prime Numbers (Odd nos) </h3>
-Accept two numbers a&b (a<b) from user and write Python Program to Print all Prime Numbers between the two numbers
+Accept two numbers a&b (a<b) from user and write Python Program to Print all Prime Numbers between the two numbers <br>
 <h4>Note:- </h4> Please note by mistakenly I've written prime no as odd no
 Don't mind Please ;-P
 
