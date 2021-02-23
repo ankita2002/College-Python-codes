@@ -11,8 +11,26 @@ Write a Python Program to Solve Quadratic Equation by taking necessary inputs fr
 <h3> Experiment 1 - Implementation of Operators </h3>
 Write python program to understand arithmetic operators and Bitwise operators. 
 
-<h3> Experiment 1 - Implementation of Datatypes </h3>
-<h3> Experiment 1 - Implementation of Datatypes </h3>
-<h3> Experiment 1 - Implementation of Datatypes </h3>
-<h3> Experiment 1 - Implementation of Datatypes </h3>
-<h3> Experiment 1 - Implementation of Datatypes </h3>
+<h3> Pattern </h3>
+Print the following pattern using python
+* 
+* * 
+* * * 
+* * * * 
+* * * * *
+* * * *
+* * *
+* *
+*
+
+<h3> Multiplication - exp 2 </h3>
+Python Program to Display the multiplication Table for accepted number from the user
+
+<h3> Prime Numbers (Odd nos) </h3>
+Accept two numbers a&b (a<b) from user and write Python Program to Print all Prime Numbers between the two numbers
+<h4>Note:- </h4> Please note by mistakenly I've written prime no as odd no
+Don't mind Please ;-P
+
+<h3> Experiment 2 - Positive or Negative and Even or Odd </h3>
+Python Program to accept a number Check if a Number is Positive, Negative or 0 . Also print whether the number is odd or even.
+
