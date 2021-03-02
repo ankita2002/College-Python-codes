@@ -34,3 +34,5 @@ Don't mind Please ;-P
 <h3> Experiment 2 - Positive or Negative and Even or Odd </h3>
 Python Program to accept a number Check if a Number is Positive, Negative or 0 . Also print whether the number is odd or even.
 
+<h3> Experiment 3 - Minimum & Maximum of Decimal Array </h3>
+  Python Program to find Minimum and Maximum Element of a decimal Array.
