@@ -42,3 +42,6 @@ Python Program to sort a string Array accepted from user with n elements.
 
 <h3> Experiment 3 - Palindrome </h3>
 Python Program to accept a string and check whether it is a palindrome or not
+
+<h3> Experiment 3 - Count Characters </h3>
+Program to Count Number of Vowels, consonants, digits and special characters in a String
