@@ -1,0 +1,24 @@
+print("**********Count vowels,consonants,digits,spaces and Symbols********************")
+a = input("Enter a String: ")
+vowel = 0
+digits = 0
+consonants = 0
+spaces = 0
+symbol = 0
+a = a.lower()
+for i in range(0,len(a)):
+    if(a[i]=='a' or a[i]=='e' or a[i]=='i' or a[i]=='o' or a[i]=='u'):
+        vowel = vowel+1
+    elif (a[i]>='a' and a[i]<='z'):
+        consonants = consonants + 1
+    elif(a[i]>='0' and a[i]<='9'):
+        digits = digits + 1
+    elif(a[i]==' '):
+        spaces = spaces + 1
+    else:
+        symbol = symbol + 1
+print("Vowels: ",vowel)
+print("Consonants: ",consonants)
+print("Digits: ",digits)
+print("White Spaces: ",spaces)
+print("Symbols: ",symbol)
