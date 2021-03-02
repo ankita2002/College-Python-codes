@@ -40,3 +40,5 @@ Python Program to find Minimum and Maximum Element of a decimal Array.
 <h3> Experiment 3 - String Sorting </h3>
 Python Program to sort a string Array accepted from user with n elements.
 
+<h3> Experiment 3 - Palindrome </h3>
+Python Program to accept a string and check whether it is a palindrome or not
