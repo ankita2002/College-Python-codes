@@ -35,4 +35,8 @@ Don't mind Please ;-P
 Python Program to accept a number Check if a Number is Positive, Negative or 0 . Also print whether the number is odd or even.
 
 <h3> Experiment 3 - Minimum & Maximum of Decimal Array </h3>
-  Python Program to find Minimum and Maximum Element of a decimal Array.
+Python Program to find Minimum and Maximum Element of a decimal Array.
+
+<h3> Experiment 3 - String Sorting </h3>
+Python Program to sort a string Array accepted from user with n elements.
+
