@@ -45,3 +45,13 @@ Python Program to accept a string and check whether it is a palindrome or not
 
 <h3> Experiment 3 - Count Characters </h3>
 Program to Count Number of Vowels, consonants, digits and special characters in a String
+
+<h3> Experiment 4 - Files </h3>
+ Python program to display file available in current directory
+
+<h3> Experiment 4 - Count Characters in a file</h3>
+Python program to count the number of lines, words and characters in a file. 
+
+<h3> Experiment 4 - Append files </h3>
+Python program to append data to existing file and then display the entire file 
+
