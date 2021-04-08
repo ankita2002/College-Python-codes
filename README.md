@@ -55,3 +55,8 @@ Python program to count the number of lines, words and characters in a file.
 <h3> Experiment 4 - Append files </h3>
 Python program to append data to existing file and then display the entire file 
 
+<h3>Experiment 7 - Creation of Socket </h3>
+Creation of simple socket for basic information exchange between server and client using python
+(Client & server based)
+
+
