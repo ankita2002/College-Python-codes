@@ -59,4 +59,7 @@ Python program to append data to existing file and then display the entire file
 Creation of simple socket for basic information exchange between server and client using python
 (Client & server based)
 
+<h3>Django Basics</h3>
+To understand Django Basics, installation, and creating Webapp
+Install Django and create a dynamic webpage to display your name and include the screenshot of the output.
 
