@@ -59,7 +59,13 @@ Python program to append data to existing file and then display the entire file
 Creation of simple socket for basic information exchange between server and client using python
 (Client & server based)
 
-<h3>Django Basics</h3>
+<h3>Experiment 8-Django Basics</h3>
 To understand Django Basics, installation, and creating Webapp
 Install Django and create a dynamic webpage to display your name and include the screenshot of the output.
 
+<h3>Experiment 9 - Multithreading</h3>
+Implement Multithreading using python.
+1. Using Threading module to calculate Squares & Cubes
+2. Multithreading
+2.1.Calulate factorial using recursion
+2.2.Calulate factorial using thread
